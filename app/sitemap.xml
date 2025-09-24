@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -31,7 +30,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-    <url>
+  <url>
     <loc>https://orionstarsmobi.com/privacy</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>monthly</changefreq>
