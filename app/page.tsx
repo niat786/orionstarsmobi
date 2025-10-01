@@ -414,6 +414,10 @@ With its user-friendly interface, ironclad security, and commitment to fair play
                   <i className="mr-2 ri-download-line"></i>
                   Start Playing Now
                 </Link>
+                 <Link href="/orionstars-vip" className="inline-flex items-center justify-center px-8 py-4 font-semibold text-white transition-colors bg-orange-600 rounded-full shadow-xl cursor-pointer hover:bg-orange-700 whitespace-nowrap">
+                  <i className="mr-2 ri-download-line"></i>
+                  Orionstars VIP
+                </Link>
                 <Link href="/about" className="inline-flex items-center justify-center px-8 py-4 font-semibold text-purple-600 transition-all border-2 border-purple-600 rounded-full cursor-pointer hover:bg-purple-600 hover:text-white whitespace-nowrap">
                   <i className="mr-2 ri-question-line"></i>
                   Learn More
