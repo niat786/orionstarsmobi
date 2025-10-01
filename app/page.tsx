@@ -7,6 +7,7 @@ import Link from 'next/link';
 export default function Home() {
   return (
     <>
+ 
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
