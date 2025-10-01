@@ -121,7 +121,7 @@ export default function ContactPage() {
                     </div>
                     <div>
                       <h3 className="mb-2 text-xl font-semibold text-gray-800">Live Chat</h3>
-                      <p className="text-gray-600">Get instant help through our in-app live chat feature. Available 24/7 for immediate assistance.</p>
+                      <p className="text-gray-600">Get instant help through our in-app live chat feature. Available 24/7 for immediate assistance. Contact us on <a href='https://www.facebook.com/groups/195678865696832/'>Facebook</a> group.</p>
                     </div>
                   </div>
                 </div>
