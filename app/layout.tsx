@@ -61,6 +61,7 @@ export default function RootLayout({
         <meta name="msapplication-TileColor" content="#ffffff" />
         <meta name="msapplication-TileImage" content={`${basePath}/ms-icon-144x144.png`} />
         <meta name="theme-color" content="#ffffff" />
+        <meta name="msvalidate.01" content="37DBF83F609ECE90A19D392734E8BB3A" />
 
       </head>
       <body
