@@ -7,15 +7,15 @@ import "./globals.css";
 const basePath = '/favicon';
 
 export const metadata: Metadata = {
-  title: "Orion Stars Casino App Download Latest | Android & iOS - orionstarsmobi.com",
-  description: "Download Orion Stars Casino app for Android and iOS. Safe, secure mobile casino gaming with slots, table games, and live dealers. Official download guide.",
+  title: "Orion Stars 777 Casino APK Download for Android & iOS",
+  description: "Download Orion Stars Casino app for Android and iOS. Safe, secure mobile casino gaming with slots and table games. Official download guide.",
   keywords: "Orion Stars, casino app, Android download, iOS download, mobile casino, slots, gambling app",
   authors: [{ name: "Orion Stars Casino" }],
   robots: "index, follow",
   openGraph: {
     title: "Orion Stars Casino App Download | Android & iOS",
     description: "Download Orion Stars Casino app for Android and iOS. Safe, secure mobile casino gaming.",
-    url: "https://orionstarsmobi.com",
+    url: "https://www.orionstarsmobi.com",
     siteName: "Orion Stars Casino",
     type: "website",
   },
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     description: "Download Orion Stars Casino app for Android and iOS",
   },
   alternates: {
-    canonical: "https://orionstarsmobi.com",
+    canonical: "https://www.orionstarsmobi.com",
   },
 };
 
@@ -37,7 +37,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning={true}>
       <head>
-        <link rel="canonical" href="https://orionstarsmobi.com" />
+        <link rel="canonical" href="https://www.orionstarsmobi.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         {/* Apple Touch Icons */}
         <link rel="apple-touch-icon" sizes="57x57" href={`${basePath}/apple-icon-57x57.png`} />
@@ -65,7 +65,8 @@ export default function RootLayout({
 
       </head>
       <body
-        className={` antialiased`}
+        className="antialiased"
+        suppressHydrationWarning
       >
         {children}
         <SpeedInsights />

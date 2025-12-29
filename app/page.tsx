@@ -61,6 +61,23 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Image Banner Section */}
+        <section className="py-8 bg-white">
+          <div className="container px-4 mx-auto">
+            <div className="max-w-7xl mx-auto">
+              <img 
+                src="/orion-stars-777-banner.webp"
+                alt="Orion Stars Casino App - Download and play casino games on Android and iOS devices with slots, table games, and live dealer options"
+                title="Orion Stars Casino App - Premium Mobile Gaming Experience for Android and iOS"
+                className="w-full h-auto rounded-xl shadow-2xl object-cover"
+                loading="eager"
+                width={1200}
+                height={600}
+              />
+            </div>
+          </div>
+        </section>
+
         <section className="py-16 bg-gray-50">
           <div className="container px-4 mx-auto">
             <h2 className="mb-12 text-3xl font-bold text-center text-gray-800 md:text-4xl">
@@ -68,6 +85,9 @@ export default function Home() {
             </h2>
             <div className="max-w-4xl mx-auto">
               <div className="p-8 mb-8 bg-white shadow-xl rounded-2xl">
+                <p className="mb-6 text-lg leading-relaxed text-gray-700">
+                  Orion Stars Casino is an online gaming platform known for its exciting arcade-style casino games, including slots and interactive fish games. It offers smooth gameplay, easy access on multiple devices, and options for both free and real-money play, making it popular with casual and experienced players alike.
+                </p>
                 <p className="mb-6 text-lg leading-relaxed text-gray-700">
                   With an immersive casino experience at your fingertips, Orion Stars Casino is the gold standard of mobile gaming entertainment.  This cutting-edge platform creates an unmatched gaming experience for both casual players and die-hard fans by fusing modern technology with traditional casino games.
                 </p>
@@ -352,47 +372,109 @@ export default function Home() {
         <section className="py-16 bg-white">
           <div className="container px-4 mx-auto">
             <h2 className="mb-12 text-3xl font-bold text-center text-gray-800 md:text-4xl">
-              Frequently Asked Questions (FAQ)
+              Orion Stars Download FAQs
             </h2>
-            <div className="max-w-4xl mx-auto space-y-6">
-              <div className="p-8 shadow-lg bg-purple-50 rounded-xl">
-                <h3 className="flex items-center mb-4 text-xl font-bold text-gray-800">
-                  <i className="mr-3 text-purple-600 ri-question-line"></i>
-                  What are Orion Stars?
-                </h3>
-                <p className="leading-relaxed text-gray-700">
-                  Orion Stars refers to the premium casino gaming platform that offers a comprehensive collection of casino-style games including slots, table games, and live dealer experiences. The name represents the stellar quality and cosmic-themed gaming experience that sets this platform apart from traditional online casinos.
-                </p>
+            <div className="max-w-5xl mx-auto">
+              
+              {/* iPhone & iOS Section */}
+              <div className="mb-12">
+                <div className="flex items-center mb-6 p-4 bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl">
+                  <i className="text-3xl text-blue-600 ri-apple-fill mr-4"></i>
+                  <h3 className="text-2xl font-bold text-gray-800">Downloading Orion Stars on iPhone & iOS</h3>
+                </div>
+                <div className="space-y-6">
+                  <div className="p-6 bg-white border-l-4 border-blue-500 shadow-lg rounded-xl hover:shadow-xl transition-shadow">
+                    <h4 className="flex items-center mb-3 text-lg font-bold text-gray-800">
+                      <i className="mr-2 text-blue-600 ri-question-answer-line"></i>
+                      How do I download Orion Stars on my iPhone or iOS device?
+                    </h4>
+                    <p className="text-gray-700 leading-relaxed mb-3">
+                      To download Orion Stars on your iPhone or iOS device, simply tap the iOS download link provided on this page. Follow these steps:
+                    </p>
+                    <ol className="list-decimal list-inside space-y-2 text-gray-700 leading-relaxed ml-4">
+                      <li>Tap the iOS download button or link available on this page</li>
+                      <li>Follow the on-screen installation steps and allow installation if prompted</li>
+                      <li>After the download starts, install the app on your device</li>
+                      <li>If required, trust the app in Settings &gt; General &gt; VPN &amp; Device Management</li>
+                      <li>Make sure the app is enabled in your iOS settings so it can run properly</li>
+                      <li>Complete the setup in your device settings before opening the app</li>
+                    </ol>
+                  </div>
+                </div>
               </div>
 
-              <div className="p-8 shadow-lg bg-green-50 rounded-xl">
-                <h3 className="flex items-center mb-4 text-xl font-bold text-gray-800">
-                  <i className="mr-3 text-green-600 ri-user-add-line"></i>
-                  How do I sign up?
-                </h3>
-                <p className="mb-4 leading-relaxed text-gray-700">
-                  Signing up for Orion Stars Casino is quick and straightforward:
-                </p>
-                <ol className="space-y-2 text-gray-700">
-                  <li>1. Download and install the app on your device</li>
-                  <li>2. Open the app and tap "Sign Up" or "Register"</li>
-                  <li>3. Enter your email address and create a secure password</li>
-                  <li>4. Verify your email address through the confirmation link</li>
-                  <li>5. Complete your profile with basic information</li>
-                  <li>6. Accept the terms and conditions</li>
-                  <li>7. Start playing with your welcome bonus!</li>
-                </ol>
+              {/* Mobile Devices Section */}
+              <div className="mb-12">
+                <div className="flex items-center mb-6 p-4 bg-gradient-to-r from-green-50 to-teal-50 rounded-xl">
+                  <i className="text-3xl text-green-600 ri-smartphone-line mr-4"></i>
+                  <h3 className="text-2xl font-bold text-gray-800">Downloading Orion Stars on Mobile Devices</h3>
+                </div>
+                <div className="space-y-6">
+                  <div className="p-6 bg-white border-l-4 border-green-500 shadow-lg rounded-xl hover:shadow-xl transition-shadow">
+                    <h4 className="flex items-center mb-3 text-lg font-bold text-gray-800">
+                      <i className="mr-2 text-green-600 ri-question-answer-line"></i>
+                      How do I download Orion Stars on my phone or mobile device?
+                    </h4>
+                    <p className="text-gray-700 leading-relaxed mb-3">
+                      To download Orion Stars on your phone or mobile device, follow these simple steps:
+                    </p>
+                    <ol className="list-decimal list-inside space-y-2 text-gray-700 leading-relaxed ml-4">
+                      <li>Choose the correct download option for your device (iOS or Android) from this page</li>
+                      <li>Click or tap the download link provided on this page</li>
+                      <li>Follow the installation instructions shown on your screen</li>
+                      <li>Install the app on your device</li>
+                      <li>Log in or create an account to start playing</li>
+                    </ol>
+                  </div>
+                </div>
               </div>
 
-              <div className="p-8 shadow-lg bg-yellow-50 rounded-xl">
-                <h3 className="flex items-center mb-4 text-xl font-bold text-gray-800">
-                  <i className="mr-3 text-yellow-600 ri-trophy-line"></i>
-                  How do I win the jackpot?
-                </h3>
-                <p className="leading-relaxed text-gray-700">
-                  Winning jackpots in Orion Stars Casino involves a combination of luck, strategy, and understanding the games. Progressive jackpots grow with each play and can be won through specific game combinations or bonus rounds. To maximize your chances: play games with higher RTP percentages, understand the rules and paytables, manage your bankroll effectively, and take advantage of bonus features.
-                </p>
+              {/* Download Code Section */}
+              <div className="mb-12">
+                <div className="flex items-center mb-6 p-4 bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl">
+                  <i className="text-3xl text-purple-600 ri-lock-line mr-4"></i>
+                  <h3 className="text-2xl font-bold text-gray-800">Orion Stars Download Code</h3>
+                </div>
+                <div className="p-6 bg-white border-l-4 border-purple-500 shadow-lg rounded-xl hover:shadow-xl transition-shadow">
+                  <h4 className="flex items-center mb-3 text-lg font-bold text-gray-800">
+                    <i className="mr-2 text-purple-600 ri-question-answer-line"></i>
+                    What is the download code for Orion Stars?
+                  </h4>
+                  <p className="text-gray-700 leading-relaxed">
+                    If a download code is required, it will be displayed or provided directly on this page along with the download instructions.
+                  </p>
+                </div>
               </div>
+
+              {/* Download Issues Section */}
+              <div className="mb-12">
+                <div className="flex items-center mb-6 p-4 bg-gradient-to-r from-red-50 to-orange-50 rounded-xl">
+                  <i className="text-3xl text-red-600 ri-error-warning-line mr-4"></i>
+                  <h3 className="text-2xl font-bold text-gray-800">Download Issues & Errors</h3>
+                </div>
+                <div className="space-y-6">
+                  <div className="p-6 bg-white border-l-4 border-red-500 shadow-lg rounded-xl hover:shadow-xl transition-shadow">
+                    <h4 className="flex items-center mb-3 text-lg font-bold text-gray-800">
+                      <i className="mr-2 text-red-600 ri-question-answer-line"></i>
+                      Why can't I download Orion Stars or why won't it download?
+                    </h4>
+                    <p className="text-gray-700 leading-relaxed mb-3">
+                      If you're experiencing download issues with Orion Stars, here are the most common causes and solutions:
+                    </p>
+                    <ul className="list-disc list-inside space-y-2 text-gray-700 leading-relaxed ml-4">
+                      <li><strong>Device compatibility:</strong> Make sure your device meets the minimum requirements (Android 5.0+ or iOS 12.0+)</li>
+                      <li><strong>Internet connection:</strong> Ensure you have a stable internet connection. If your connection is unstable, refresh the page and try again</li>
+                      <li><strong>Blocked permissions:</strong> Check that your device security settings aren't blocking the installation. For Android, enable "Unknown Sources" in Security settings</li>
+                      <li><strong>iPhone/iOS specific:</strong> If downloading on iPhone, the app may not have been trusted in your iPhone settings. Go to Settings &gt; General &gt; VPN &amp; Device Management and trust the developer profile. Also check if your iOS version needs updating</li>
+                      <li><strong>Security settings:</strong> Your device security settings may be blocking the installation. Temporarily adjust security settings if needed</li>
+                    </ul>
+                    <p className="text-gray-700 leading-relaxed mt-3">
+                      If problems persist, retry using the download link on this page after checking these items.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         </section>
