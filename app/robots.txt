@@ -1,5 +1,143 @@
+# robots.txt for orionstarsmobi.com
 
+# Allow all search engines and bots
 User-agent: *
 Allow: /
 
+# Disallow admin and private areas (if any)
+User-agent: *
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# ============================================
+# Major Search Engine Bots
+# ============================================
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+# ============================================
+# Major AI Bots and Crawlers
+# ============================================
+# OpenAI ChatGPT / GPTBot
+User-agent: GPTBot
+Allow: /
+
+# OpenAI ChatGPT (alternative)
+User-agent: ChatGPT-User
+Allow: /
+
+# Google Bard / Gemini
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic Claude
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-ai
+Allow: /
+
+# Microsoft Bing Chat / Copilot
+User-agent: BingPreview
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+# Applebot (for Siri)
+User-agent: Applebot
+Allow: /
+
+# Facebook AI
+User-agent: facebookexternalhit
+Allow: /
+
+# Twitter/X AI
+User-agent: Twitterbot
+Allow: /
+
+# LinkedIn AI
+User-agent: LinkedInBot
+Allow: /
+
+# Amazon AI
+User-agent: Amazonbot
+Allow: /
+
+# Common AI Crawlers
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: ChatGPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# ============================================
+# Crawl Settings
+# ============================================
+# Crawl delay (optional, helps prevent server overload)
+Crawl-delay: 1
+
+# ============================================
+# Sitemap Location
+# ============================================
 Sitemap: https://orionstarsmobi.com/sitemap.xml
+Sitemap: https://www.orionstarsmobi.com/sitemap.xml

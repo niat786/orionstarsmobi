@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description: "Download Orion Stars Casino app for Android and iOS devices. Step-by-step installation guide, troubleshooting tips, and system requirements.",
   keywords: "Orion Stars download, casino app download, Android APK, iOS install, mobile casino app",
   alternates: {
-    canonical: "https://orionstarsmobi.com/download",
+    canonical: "https://www.orionstarsmobi.com/download",
   },
 };
 

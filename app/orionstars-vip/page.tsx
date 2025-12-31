@@ -4,9 +4,9 @@ import Footer from '../../components/Footer';
 import Link from 'next/link';
 
 export default function VipLoginDownload() {
-  const currentUrl = 'https://orionstarsmobi.com/orionstars-vip';
+  const currentUrl = 'https://www.orionstarsmobi.com/orionstars-vip';
   const orgName = 'OrionStars VIP';
-  const orgUrl = 'https://orionstarsmobi.com';
+  const orgUrl = 'https://www.orionstarsmobi.com';
   const publishDate = '2025-10-02';
   const headline = 'Official OrionStars VIP: Login, App Download & Play Online';
   const description = 'Complete guide to access the official OrionStars VIP Login, find the latest OrionStars VIP APK download, and play the game online on Android and iOS, including troubleshooting the 8580 link.';

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Play Orion Stars Online - Complete Guide for Desktop and Mobile",
     description: "Complete guide to play Orion Stars online. Learn how to sign up, login, and play for free or real money on desktop and mobile devices.",
-    url: "https://orionstarsmobi.com/play-orion-stars-online",
+    url: "https://www.orionstarsmobi.com/play-orion-stars-online",
     siteName: "Orion Stars Casino",
     type: "article",
   },
@@ -22,14 +22,14 @@ export const metadata: Metadata = {
     description: "Complete guide to play Orion Stars online on desktop and mobile devices.",
   },
   alternates: {
-    canonical: "https://orionstarsmobi.com/play-orion-stars-online",
+    canonical: "https://www.orionstarsmobi.com/play-orion-stars-online",
   },
 };
 
 export default function PlayOrionStarsOnline() {
-  const currentUrl = 'https://orionstarsmobi.com/play-orion-stars-online';
+  const currentUrl = 'https://www.orionstarsmobi.com/play-orion-stars-online';
   const orgName = 'Orion Stars Casino';
-  const orgUrl = 'https://orionstarsmobi.com';
+  const orgUrl = 'https://www.orionstarsmobi.com';
   const publishDate = '2026-01-01';
   const headline = 'Play Orion Stars Online Anytime, Anywhere - Compatible with All Browsers';
   const description = 'Complete guide to play Orion Stars online. Learn how to sign up, login, play for free or real money, and access VIP features on desktop and mobile.';

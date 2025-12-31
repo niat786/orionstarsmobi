@@ -5,11 +5,11 @@ import Footer from '../../components/Footer';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: "Download Orion Stars Casino App | Android & iOS Installation Guide",
-  description: "Download Orion Stars Casino app for Android and iOS devices. Step-by-step installation guide, troubleshooting tips, and system requirements.",
-  keywords: "Orion Stars download, casino app download, Android APK, iOS install, mobile casino app",
+  title: "Privacy Policy | Orion Stars Casino | Data Protection & Privacy",
+  description: "Orion Stars Casino Privacy Policy. Learn how we collect, use, and protect your personal information. Your privacy and data security are our top priorities.",
+  keywords: "Orion Stars privacy policy, data protection, privacy, personal information, data security, GDPR",
   alternates: {
-    canonical: "https://orionstarsmobi.com/download",
+    canonical: "https://www.orionstarsmobi.com/privacy",
   },
 };
 

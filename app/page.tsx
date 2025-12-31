@@ -19,19 +19,19 @@ export default function Home() {
             "author": {
               "@type": "Organization",
               "name": "Orion Stars Casino",
-              "url": "https://orionstarsmobi.com"
+              "url": "https://www.orionstarsmobi.com"
             },
             "publisher": {
               "@type": "Organization",
               "name": "Orion Stars Casino",
-              "url": "https://orionstarsmobi.com"
+              "url": "https://www.orionstarsmobi.com"
             },
-            "url": "https://orionstarsmobi.com",
+            "url": "https://www.orionstarsmobi.com",
             "datePublished": "2024-01-01",
             "dateModified": "2024-01-01",
             "mainEntityOfPage": {
               "@type": "WebPage",
-              "@id": "https://orionstarsmobi.com"
+              "@id": "https://www.orionstarsmobi.com"
             }
           })
         }}

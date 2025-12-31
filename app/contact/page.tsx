@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Get in touch with Orion Stars Casino support team. Contact us for help with downloads, account issues, technical support, and general inquiries.",
   keywords: "Orion Stars contact, customer support, help, technical support, casino support",
   alternates: {
-    canonical: "https://orionstarsmobi.com/contact",
+    canonical: "https://www.orionstarsmobi.com/contact",
   },
 };
 

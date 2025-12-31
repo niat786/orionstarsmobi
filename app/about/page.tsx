@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Learn about Orion Stars Casino's mission, values, and team. Discover how we're revolutionizing mobile casino gaming with cutting-edge technology and security.",
   keywords: "Orion Stars about, casino company, mobile gaming, team, mission, values",
   alternates: {
-    canonical: "https://orionstarsmobi.com/about",
+    canonical: "https://www.orionstarsmobi.com/about",
   },
 };
 

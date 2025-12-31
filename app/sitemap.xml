@@ -1,45 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <!-- Homepage -->
   <url>
-    <loc>https://orionstarsmobi.com</loc>
-    <lastmod>2024-01-01</lastmod>
+    <loc>https://www.orionstarsmobi.com</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  <!-- Download Page -->
   <url>
-    <loc>https://orionstarsmobi.com/download</loc>
-    <lastmod>2025-02-01</lastmod>
+    <loc>https://www.orionstarsmobi.com/download</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Play Online Page -->
   <url>
-    <loc>https://orionstarsmobi.com/about</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://www.orionstarsmobi.com/play-orion-stars-online</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- VIP Access Page -->
+  <url>
+    <loc>https://www.orionstarsmobi.com/orionstars-vip</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Backend System Page -->
+  <url>
+    <loc>https://www.orionstarsmobi.com/orionstar-backend</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- About Page -->
+  <url>
+    <loc>https://www.orionstarsmobi.com/about</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <!-- Contact Page -->
   <url>
-    <loc>https://orionstarsmobi.com/contact</loc>
-    <lastmod>2025-02-01</lastmod>
+    <loc>https://www.orionstarsmobi.com/contact</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- Privacy Policy -->
   <url>
-    <loc>https://orionstarsmobi.com/disclaimer</loc>
-    <lastmod>2025-03-01</lastmod>
+    <loc>https://www.orionstarsmobi.com/privacy</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
+  <!-- Disclaimer -->
   <url>
-    <loc>https://orionstarsmobi.com/privacy</loc>
-    <lastmod>2025-05-01</lastmod>
+    <loc>https://www.orionstarsmobi.com/disclaimer</loc>
+    <lastmod>2025-01-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://orionstarsmobi.com/play-orion-stars-online</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>

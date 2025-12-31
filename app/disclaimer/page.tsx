@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Important legal information, terms of use, privacy policy, and disclaimer for Orion Stars Casino mobile gaming platform.",
   keywords: "Orion Stars disclaimer, legal information, terms of use, privacy policy, gambling disclaimer",
   alternates: {
-    canonical: "https://orionstarsmobi.com/disclaimer",
+    canonical: "https://www.orionstarsmobi.com/disclaimer",
   },
 };
 
