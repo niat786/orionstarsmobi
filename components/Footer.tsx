@@ -73,6 +73,12 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/orionstar-backend" className="flex items-center text-sm text-gray-300 transition-all cursor-pointer hover:text-white hover:translate-x-1">
+                  <i className="mr-2 text-indigo-400 ri-dashboard-line"></i>
+                  Backend System
+                </Link>
+              </li>
+              <li>
                 <Link href="/about" className="flex items-center text-sm text-gray-300 transition-all cursor-pointer hover:text-white hover:translate-x-1">
                   <i className="mr-2 text-purple-400 ri-information-line"></i>
                   About Us
